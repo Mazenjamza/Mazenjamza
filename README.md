@@ -40,6 +40,16 @@
 
 ---
 
+## 🌐 My Google Profile
+<p align="center">
+  <a href="https://g.dev/mazenhamza" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Google" width="40" height="40">
+    <br>
+    <b>Visit my Google Developer Profile</b>
+  </a>
+</p>
+
+---
 
 ## 🌐 Connect With Me
 <p align="center">
