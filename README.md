@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mazen</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mazenjamza&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Mazenjamza&label=Profile%20views&color=0a75b6&style=flat" alt="views" />
 </p>
 
 <h3 align="center">Ambitious Android & Linux Enthusiast</h3>
@@ -19,17 +19,17 @@
 
 ---
 
-## 🏅 Certifications & Badges
+## 🏅 Certifications & Badges from google
 <p align="center">
-  <img src="assets/kotlin-badge.png" alt="Google Kotlin Badge" width="160"><br>
-  <b>Google Developer Learning — Kotlin</b><br>
-  <a href="https://developers.google.com/profile/badges/playlists/android/android-basics-compose-unit-1-pathway-1">Verify on Google Developers</a>
+  <a href="https://developers.google.com/profile/badges/playlists/android/android-basics-compose-unit-1-pathway-1"><img src="assets/kotlin-badge.svg" alt="Google Kotlin Badge" width="160"><br>
+
 </p>
 
 ---
 
 ## 🔭 Current Focus
-- Building Android apps with Kotlin  
+- Building Android apps with Kotlin
+- Learing more about Android studio
 - Discovering ROMs (AOSP/LineageOS) & recoveries (TWRP/OrangeFox)    
 
 ---
