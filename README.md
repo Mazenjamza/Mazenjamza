@@ -9,7 +9,7 @@
 ---
 
 
-## 🛠 Languages
+## 🛠 Languages & Tools
 <p align="center">
   <a href="https://developer.android.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="65" height="65"/></a>
   <a href="https://kotlinlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="65" height="65"/></a>
@@ -24,7 +24,7 @@
 
 ---
 
-## 🏅 Certifications & Badges from google
+## 🏅 Certifications & Badges from Google
 <p align="center">
   <a href="https://developers.google.com/profile/badges/playlists/android/android-basics-compose-unit-1-pathway-1"><img src="assets/kotlin-badge.svg" alt="Google Kotlin Badge" width="160">
   <a href="https://developers.google.com/profile/badges/profile/created-profile"><img src="assets/created_profile.svg" alt="Joined Google Developer Program"  width="160"><br>
