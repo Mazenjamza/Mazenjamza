@@ -56,9 +56,7 @@
   <a href="https://www.linkedin.com/in/mazen-hamza-18169b399">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="30"/>
   </a>
-  <a href="https://github.com/Mazenjamza">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" height="30"/>
-  </a>
+
   <a href="https://x.com/roose_666">
     <img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white" height="30"/>
   </a>
