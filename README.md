@@ -63,4 +63,7 @@
   <a href="https://xdaforums.com/m/roose_j.12845475/">
     <img src="https://img.shields.io/badge/XDA-000000?logo=android&logoColor=white" />
   </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jssmazen@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" height="30"/>
+</a>
 </p>
